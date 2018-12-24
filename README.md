@@ -1,2 +1,2 @@
 # getlinux
-get the infomation of linux machine
+获取机器硬件信息
